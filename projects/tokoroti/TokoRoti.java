@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package tokoroti;
 
-/**
- *
- * @author Andi Surya Priyadi
- */
 public abstract class TokoRoti {
     
     public String namaPembeli;
